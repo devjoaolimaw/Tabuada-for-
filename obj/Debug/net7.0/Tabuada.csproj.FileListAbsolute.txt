@@ -1,0 +1,14 @@
+c:\dev\Tabuada\bin\Debug\net7.0\Tabuada.exe
+C:\dev\Tabuada\bin\Debug\net7.0\Tabuada.deps.json
+C:\dev\Tabuada\bin\Debug\net7.0\Tabuada.runtimeconfig.json
+c:\dev\Tabuada\bin\Debug\net7.0\Tabuada.dll
+c:\dev\Tabuada\bin\Debug\net7.0\Tabuada.pdb
+c:\dev\Tabuada\obj\Debug\net7.0\Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+c:\dev\Tabuada\obj\Debug\net7.0\Tabuada.AssemblyInfoInputs.cache
+c:\dev\Tabuada\obj\Debug\net7.0\Tabuada.AssemblyInfo.cs
+c:\dev\Tabuada\obj\Debug\net7.0\Tabuada.csproj.CoreCompileInputs.cache
+c:\dev\Tabuada\obj\Debug\net7.0\Tabuada.dll
+c:\dev\Tabuada\obj\Debug\net7.0\refint\Tabuada.dll
+c:\dev\Tabuada\obj\Debug\net7.0\Tabuada.pdb
+C:\dev\Tabuada\obj\Debug\net7.0\Tabuada.genruntimeconfig.cache
+C:\dev\Tabuada\obj\Debug\net7.0\ref\Tabuada.dll
